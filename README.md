@@ -3,11 +3,11 @@
 
 Tech Stack :
 -------------
-Java 11
-intelliJ IDEA
-Maven
-TestNG
-JSON-Simple
+* Java 11
+* intelliJ IDEA
+* Maven
+* TestNG
+* JSON-Simple
 
 Project creation steps:
 --------------------------
